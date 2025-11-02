@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MCU_Datalogger_Footprints")(type "KiCad")(uri "C:/Users/Antonio Goma/Documents/KiCad/KiCad Libraries/MCU_Datalogger_Footprints")(options "")(descr ""))
+)
