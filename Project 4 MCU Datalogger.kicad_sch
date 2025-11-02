@@ -2,8 +2,14 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid 14f1172a-a3f7-445c-971e-52f2def98f0b)
+	(uuid "14f1172a-a3f7-445c-971e-52f2def98f0b")
 	(paper "A4")
+	(title_block
+		(title "${project_name}")
+		(date "2025-11-02")
+		(rev "1")
+		(company "Mad Tech T")
+	)
 	(lib_symbols)
 	(sheet_instances
 		(path "/"
