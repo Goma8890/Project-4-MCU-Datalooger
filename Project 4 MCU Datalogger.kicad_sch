@@ -3966,7 +3966,7 @@
 		(uuid "24680126-5a3f-49d4-9b4e-33850e0d57aa")
 	)
 	(label "RX"
-		(at 177.8 144.78 180)
+		(at 177.8 142.24 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3986,7 +3986,7 @@
 		(uuid "2f8d45a3-57ac-4f62-81da-abe6958df8d4")
 	)
 	(label "TX"
-		(at 177.8 147.32 180)
+		(at 177.8 144.78 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4216,7 +4216,7 @@
 		(uuid "ab88d267-97b5-40b1-a839-50c7c2043257")
 	)
 	(label "SCK"
-		(at 177.8 139.7 180)
+		(at 177.8 149.86 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7255,7 +7255,7 @@
 			)
 		)
 		(pin "RX" input
-			(at 177.8 144.78 180)
+			(at 177.8 142.24 180)
 			(uuid "adca4b49-77c7-4baa-b9f1-612b93fb0505")
 			(effects
 				(font
@@ -7325,7 +7325,7 @@
 			)
 		)
 		(pin "TX" output
-			(at 177.8 147.32 180)
+			(at 177.8 144.78 180)
 			(uuid "22050215-2d6d-4983-9349-9c532ec1834b")
 			(effects
 				(font
@@ -7395,7 +7395,7 @@
 			)
 		)
 		(pin "SCK" passive
-			(at 177.8 139.7 180)
+			(at 177.8 149.86 180)
 			(uuid "d463e4a6-768d-4547-b550-666dee4cda80")
 			(effects
 				(font

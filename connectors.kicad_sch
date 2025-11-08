@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "dc458c19-3097-449e-a43e-cddd29095f5b")
+	(uuid "dc033950-3d42-4331-a039-e55ede9480c4")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Connector:Conn_01x04_Pin"
@@ -1222,7 +1222,7 @@
 		(dnp no)
 		(uuid "4020d7c1-ce49-4db5-bf5e-d444dda4fbdd")
 		(property "Reference" "J3"
-			(at 112.395 101.6 0)
+			(at 114.808 103.124 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1319,7 +1319,7 @@
 		(dnp no)
 		(uuid "57c9668e-9836-45c2-8a1d-2a6ee54b23bb")
 		(property "Reference" "J2"
-			(at 112.395 78.74 0)
+			(at 115.062 80.518 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1401,7 +1401,7 @@
 		(dnp no)
 		(uuid "afa86eb4-70e4-45af-9f00-e429101b5ff6")
 		(property "Reference" "J1"
-			(at 138.43 105.41 0)
+			(at 138.43 108.458 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1489,7 +1489,7 @@
 		(dnp no)
 		(uuid "feade745-686f-495e-b2cf-373367790922")
 		(property "Reference" "J4"
-			(at 137.795 78.74 0)
+			(at 140.462 80.772 0)
 			(effects
 				(font
 					(size 1.27 1.27)
