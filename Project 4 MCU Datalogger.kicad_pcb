@@ -330,13 +330,13 @@
 			(layer "F.Fab")
 			(uuid "c56bd8d0-d200-4d8f-ba92-9550ed2f5525")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+		(fp_text user "${}"
+			(at -0.03 -1.91 0)
 			(layer "F.SilkS")
 			(uuid "1e3fcf6e-ade5-4af0-a4b8-5800918e0644")
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 0.8 0.7)
 					(thickness 0.1)
 				)
 			)
@@ -1363,13 +1363,13 @@
 			(layer "F.Fab")
 			(uuid "90a49627-2b6c-48af-94e8-49d9b296c051")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 3.81 0)
+		(fp_text user "${}"
+			(at -0.665 10.15 0)
 			(layer "F.SilkS")
 			(uuid "26e958bb-dba6-46f1-8337-b993d2086ac7")
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 0.8 0.7)
 					(thickness 0.1)
 				)
 			)
@@ -1652,13 +1652,13 @@
 			(layer "F.Fab")
 			(uuid "6598f87a-d61d-4ca2-ac6d-d5d706f15f51")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 10.16 0)
+		(fp_text user "${}"
+			(at 0.835 -2.45 0)
 			(layer "F.SilkS")
 			(uuid "0c5d46d3-6311-4eed-9e4e-f4483fa0d24c")
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 0.8 0.7)
 					(thickness 0.1)
 				)
 			)
@@ -1996,13 +1996,13 @@
 			(layer "F.Fab")
 			(uuid "7ac33664-ca66-4bc5-8da0-fcb430e9febb")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 3.81 90)
+		(fp_text user "${}"
+			(at 1.055 -2.405 180)
 			(layer "F.SilkS")
 			(uuid "85def05f-dd32-41b6-aced-0d32f03e61d6")
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 0.8 0.7)
 					(thickness 0.1)
 				)
 			)
@@ -2221,13 +2221,13 @@
 			(layer "F.Fab")
 			(uuid "f80c7412-9b2f-446b-823f-fd494ea348ce")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+		(fp_text user "${}"
+			(at 0.025 -1.91 0)
 			(layer "F.SilkS")
 			(uuid "865501a1-a48b-49ff-b976-c0ce9ad953da")
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 0.8 0.7)
 					(thickness 0.1)
 				)
 			)
@@ -2270,7 +2270,7 @@
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D2"
-			(at -2.59 0.31 180)
+			(at -2.59 0.31 0)
 			(layer "F.SilkS")
 			(uuid "641d8dc5-f993-47e2-b9f1-2f43990dbd6d")
 			(effects
@@ -2453,13 +2453,13 @@
 			(layer "F.Fab")
 			(uuid "7aea8e0a-216a-4c57-b6c4-e84ac200b07a")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
+		(fp_text user "${}"
+			(at -2.59 0.31 0)
 			(layer "F.SilkS")
 			(uuid "a36bedbe-cd59-47d0-b379-05b091045be2")
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 0.8 0.7)
 					(thickness 0.1)
 				)
 			)
@@ -2504,7 +2504,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R6"
-			(at 1.845 -1.75 180)
+			(at 1.845 -1.75 0)
 			(layer "F.SilkS")
 			(uuid "46e96bd8-909e-443e-bbc9-f6d68e0e755f")
 			(effects
@@ -2654,13 +2654,13 @@
 			(layer "F.Fab")
 			(uuid "91c6edf0-a20d-4474-a7e0-4c266709ed35")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
+		(fp_text user "${}"
+			(at 1.845 -1.75 0)
 			(layer "F.SilkS")
 			(uuid "fc94705a-34e4-435e-b6d3-25d5bd04cf5f")
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 0.8 0.7)
 					(thickness 0.1)
 				)
 			)
@@ -2853,13 +2853,13 @@
 			(layer "F.Fab")
 			(uuid "f2d257df-7488-4bca-ab53-ba1b1b16bf2b")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
+		(fp_text user "${}"
+			(at 0 -1.65 90)
 			(layer "F.SilkS")
 			(uuid "e9049125-6136-46d8-9ba1-214e05ff4711")
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 0.8 0.7)
 					(thickness 0.1)
 				)
 			)
@@ -3136,13 +3136,13 @@
 			(layer "F.Fab")
 			(uuid "bd38e218-7515-4101-9f46-0dee08d9e8a4")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 1.27 2.54 90)
+		(fp_text user "${}"
+			(at 1.73 -2.845 180)
 			(layer "F.SilkS")
 			(uuid "57dcdd5f-df7b-4149-a2e0-0e424f318edc")
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 0.8 0.7)
 					(thickness 0.1)
 				)
 			)
@@ -3433,8 +3433,8 @@
 			(layer "F.Fab")
 			(uuid "8b92d470-f15f-4ed3-8ebd-9c024da8aaf6")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 1.27 90)
+		(fp_text user "${}"
+			(at 2.22 -3.08 180)
 			(layer "F.SilkS")
 			(uuid "5397c669-ecf5-48da-971a-e064bed6fd4a")
 			(effects
@@ -3838,13 +3838,13 @@
 			(layer "F.Fab")
 			(uuid "5dfbbe14-7616-4e9c-a580-762c44a832b2")
 		)
-		(fp_text user "${REFERENCE}"
-			(at -0.015 0 0)
+		(fp_text user "${}"
+			(at -0.015 1.91 0)
 			(layer "F.SilkS")
 			(uuid "27f0fbf2-e9ca-4960-8b2e-a316666f670e")
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 0.8 0.7)
 					(thickness 0.1)
 				)
 			)
@@ -3887,7 +3887,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R1"
-			(at -2.59 -0.115 180)
+			(at -2.59 -0.115 0)
 			(layer "F.SilkS")
 			(uuid "1b856431-65bd-4ac6-8cd4-011a5904a613")
 			(effects
@@ -4037,13 +4037,13 @@
 			(layer "F.Fab")
 			(uuid "abb30600-ef05-4ebe-ba54-a51d7279e973")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
+		(fp_text user "${}"
+			(at -2.59 -0.115 0)
 			(layer "F.SilkS")
 			(uuid "b729e686-6a37-4595-97a4-95bb2acbdd07")
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 0.8 0.7)
 					(thickness 0.1)
 				)
 			)
@@ -4468,7 +4468,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C1"
-			(at 1.48 1.45 180)
+			(at 1.48 1.45 0)
 			(layer "F.SilkS")
 			(uuid "b0f40229-e560-43f9-88f5-ca330b6ec874")
 			(effects
@@ -4618,13 +4618,13 @@
 			(layer "F.Fab")
 			(uuid "2f2d040b-699d-4932-92fa-a593c3bbcd00")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
+		(fp_text user "${}"
+			(at 1.48 1.45 0)
 			(layer "F.SilkS")
 			(uuid "de1e3215-c920-4d16-bebc-464ab92760c9")
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 0.8 0.7)
 					(thickness 0.1)
 				)
 			)
@@ -4793,13 +4793,13 @@
 			(layer "F.Fab")
 			(uuid "cf4d92c0-8ed1-421e-9bff-b0a18cd32dcd")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
+		(fp_text user "${}"
+			(at 3.535 2.22 180)
 			(layer "F.SilkS")
 			(uuid "164a1034-2b8a-45dd-b4b6-087b415a9c9d")
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 0.8 0.7)
 					(thickness 0.1)
 				)
 			)
@@ -5027,13 +5027,13 @@
 			(layer "F.Fab")
 			(uuid "3ef334ee-f616-4a8c-a938-1ed880976cd7")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+		(fp_text user "${}"
+			(at -0.02 -1.91 0)
 			(layer "F.SilkS")
 			(uuid "aa247902-f595-43a5-80bc-0a1258ea4562")
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 0.8 0.7)
 					(thickness 0.1)
 				)
 			)
@@ -5228,13 +5228,13 @@
 			(layer "F.Fab")
 			(uuid "6950e28c-f7d2-4e3b-9ed1-5425ef8cb9a1")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
+		(fp_text user "${}"
+			(at -2.235 -1.05 180)
 			(layer "F.SilkS")
 			(uuid "6928ceb3-2166-4f41-a726-1f3c35469547")
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 0.8 0.7)
 					(thickness 0.1)
 				)
 			)
@@ -5531,13 +5531,13 @@
 			(layer "F.Fab")
 			(uuid "77a591b2-acb1-4885-8400-9cdd30c0fc6e")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+		(fp_text user "${}"
+			(at 0 -3.6 0)
 			(layer "F.SilkS")
 			(uuid "077ad52f-fc39-47ec-a498-5c9718b7cfe2")
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 0.8 0.7)
 					(thickness 0.1)
 				)
 			)
@@ -5792,13 +5792,13 @@
 			(layer "F.Fab")
 			(uuid "d7fcb29d-b03a-4e13-8e26-d37a6c43240e")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
+		(fp_text user "${}"
+			(at 0 -1.65 90)
 			(layer "F.SilkS")
 			(uuid "1ef5a417-c2da-44fd-a1da-8692ea00c599")
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 0.8 0.7)
 					(thickness 0.1)
 				)
 			)
@@ -6092,13 +6092,13 @@
 			(layer "F.Fab")
 			(uuid "c1468fc9-d92b-4d9e-a336-0ed6ac994966")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 180)
+		(fp_text user "${}"
+			(at -1.79 -1.55 180)
 			(layer "F.SilkS")
 			(uuid "27c99073-d1e6-4277-b02b-f5a031f0a258")
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 0.8 0.7)
 					(thickness 0.1)
 				)
 			)
@@ -6395,13 +6395,13 @@
 			(layer "F.Fab")
 			(uuid "7082f673-cf63-4f67-8af3-4b7feebcb106")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+		(fp_text user "${}"
+			(at -3.8 -3.6 0)
 			(layer "F.SilkS")
 			(uuid "d0944dfb-9752-4d46-b419-b55ffd3a37f8")
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 0.8 0.7)
 					(thickness 0.1)
 				)
 			)
@@ -6619,13 +6619,13 @@
 			(layer "F.Fab")
 			(uuid "a1077e59-1af2-4f98-af83-9e90a1b00357")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+		(fp_text user "${}"
+			(at 1.84 2.555 0)
 			(layer "F.SilkS")
 			(uuid "6d9b6c75-0d6c-4b11-9ce5-c30eb1edd8c2")
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 0.8 0.7)
 					(thickness 0.1)
 				)
 			)
@@ -6820,13 +6820,13 @@
 			(layer "F.Fab")
 			(uuid "ef3fbb8c-3587-4060-9358-a793d63ac6e9")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
+		(fp_text user "${}"
+			(at 0 -1.65 90)
 			(layer "F.SilkS")
 			(uuid "acae3876-c0fe-44ac-bfa8-d8bb285e841d")
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 0.8 0.7)
 					(thickness 0.1)
 				)
 			)
@@ -7120,13 +7120,13 @@
 			(layer "F.Fab")
 			(uuid "5a1bb7b0-16e4-4c9a-9726-c5d3ed1a9c60")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
+		(fp_text user "${}"
+			(at 2.255 0.24 180)
 			(layer "F.SilkS")
 			(uuid "486e3918-1f0e-4111-aa61-c2398696aa77")
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 0.8 0.7)
 					(thickness 0.1)
 				)
 			)
